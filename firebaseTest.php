@@ -1,9 +1,9 @@
 <?php
 require_once 'firebaseLib.php';
 // --- This is your Firebase URL
-$url = 'https://xxxxxx.firebaseio.com/';
+$url = 'https://diploma-7c7fb.firebaseio.com/';
 // --- Use your token from Firebase here
-$token = 'xxxxxxxxxxxxxxx';
+$token = 'Gti5bRWvWSawjqWDBxlNAgXccffYYtlegfy9jwOw';
 // --- Here is your parameter from the http GET
 $arduino_data = $_GET['arduino_data'];
 // --- $arduino_data_post = $_POST['name'];
